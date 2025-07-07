@@ -42,7 +42,7 @@ The goal of this project is to build and compare machine learning models for bre
 ## Project Structure
 
 ```
-Assignment-3/
+Breast-cancer-classifier/
 │
 ├── main.ipynb           # Jupyter notebook with all code and analysis
 ├── breast cancer.csv    # Dataset file (not included in repo, see Dataset section)
@@ -73,7 +73,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 1. Clone the repository and navigate to the project folder:
     ```bash
     git clone <your-repo-url>
-    cd Assignment-3
+    cd Breast-cancer-classifier
     ```
 
 2. Place the `breast cancer.csv` dataset in the project directory.
